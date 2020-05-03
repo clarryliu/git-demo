@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------
+
+ Citrix Workspace Environment Management Agent Log
+
+------------------------------------------------------------------------------------------------
+
+Log Start : 7:52:25 p.m. Sunday, 17 November 2019
+
+
+Agent Version: 4.05.00.00
+
+7:52:27 p.m. Exception -> VuemFilesystemOperationController.ProcessSingleEntityTask() : Error while processing Filesystem Operation: WER for Item: LDSTAT01\Domain Users (S-1-5-21-796845957-1788223648-839522115-513)
+8:32:50 p.m. Exception -> VuemFilesystemOperationController.ProcessSingleEntityTask() : Error while processing Filesystem Operation: WER for Item: LDSTAT01\Domain Users (S-1-5-21-796845957-1788223648-839522115-513)
+9:02:50 p.m. Exception -> VuemFilesystemOperationController.ProcessSingleEntityTask() : Error while processing Filesystem Operation: WER for Item: LDSTAT01\Domain Users (S-1-5-21-796845957-1788223648-839522115-513)
